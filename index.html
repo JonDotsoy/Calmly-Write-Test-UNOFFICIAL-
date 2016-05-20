@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>  
+  <head>  
+    <title>calmly.
+    </title>  
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />   
+    <meta name="viewport" content="width=device-width, user-scalable=no" />      
+    <link href="style.css" rel="stylesheet">
+    </script>
+<script src="he.js"></script>          
+<script src="raceme.js"></script>     
+<script src="Filemanager.js"></script>
+<script src="db.js"></script>     
+<script src="editor.js"></script>     
+<script src="calmly.js"></script>     
+<script src="findandreplace.js"></script>   
+<script src="md.min.js"></script>
+<script src="marked.min.js"></script>
+<script src="selector.js"></script>
+<script src="Checkbox.js"></script>
+<script src="moment.js"></script>
+<script src="mammoth.browser.min.js"></script>
+<script src="jszip.js"></script>
+<script src="conversor.js"></script>
+
+<!-- <script src="xmlrpc.js"></script> -->
+  </head>  
+  <body spellcheck="false">
+  <audio src="sound/backspace.mp3" id='mp3-backspace'></audio>
+  <audio src="sound/key-01.mp3" id='mp3-key-01'></audio>
+  <audio src="sound/key-02.mp3" id='mp3-key-02'></audio>
+  <audio src="sound/key-03.mp3" id='mp3-key-03'></audio>
+  <audio src="sound/key-04.mp3" id='mp3-key-04'></audio>
+  <audio src="sound/key-new-01.mp3" id='mp3-key-new-01'></audio>
+  <audio src="sound/key-new-02.mp3" id='mp3-key-new-02'></audio>
+  <audio src="sound/key-new-03.mp3" id='mp3-key-new-03'></audio>
+  <audio src="sound/key-new-04.mp3" id='mp3-key-new-04'></audio>     
+  <audio src="sound/key-new-05.mp3" id='mp3-key-new-05'></audio>
+  <audio src="sound/return.mp3" id='mp3-return'></audio>
+  <audio src="sound/return-new.mp3" id='mp3-return-new'></audio>
+  <audio src="sound/scrollDown.mp3" id='mp3-scrollDown'></audio>
+  <audio src="sound/scrollUp.mp3" id='mp3-scrollUp'></audio>
+  <audio src="sound/space.mp3" id='mp3-space'></audio>
+  <audio src="sound/space-new.mp3" id='mp3-space-new'></audio>
+    <div id='titlebar'>
+      <a id='menucalmly' href="#">
+        <img src="img/menu.png" /> Calmly Writer</a>
+      <input id='titletext' type='text' value='untitled.cml' /> 
+      <div id="titlecontrol">
+        <a href="#" id='min_b'>
+          <img src="img/min.png" /></a>
+        <a href="#" id='max_b'>
+          <img src="img/max.png" /></a>
+        <a href="#" id='res_b'>
+          <img src="img/restore.png" /></a>
+        <a href="#" id='close_b' style='display:none'>
+          <img src="img/close.png" /></a>
+        <a href="#" id='full_b'>
+          <img src="img/full.png" /></a>
+      </div>
+    </div>  
+    <div id='wrapper'>    
+      <div id="main" contentEditable="true" spellcheck="true" class="droid">    
+      </div>                
+    </div> 
+     <div id='calmlylogo'>
+      <img src='img/calmly.png' alt='calmly' />
+    </div>     
+    <div id='topshadow'>
+    </div>  
+    <div id='bottomshadow'>
+    </div>  
+         
+    <div id='options'>  
+      <div id="countdiv"><span class='countline'>0 Words</span><span class='countline'>0 Characters</span><span class='countline'>00:00:00 Reading Time</span> </div>  
+      <a class="option" id='opback' style="color: rgba(255,255,255,0.2); text-shadow:none; display:none">
+        <img src="img/icnback.png" /></a>  
+      <a class="option" id='opnew' href='#'>
+        <img src="img/icnnew.png" /><span id='newmsg'  class='menumsg'>New</span></a>     
+      <a class="option" id='opopen' href='#'>
+        <img src="img/icnopen.png" /><span id='openmsg' class='menumsg'>Open</span></a> 
+          
+      <a class="option" id='opsavedirect' href='#' >
+        <img src="img/icnsave2.png" /><span id='savemsg' class='menumsg'>Save</span></a>
+        
+      <a class="option" id='opsave' href='#' >
+        <img src="img/icnsave.png" /><span id='saveasmsg' class='menumsg'>Save As</span></a>  
+      
+      
+      <a class="option" id='opinsert' href='#' >
+        <img src="img/icnimage.png" /><span id='insertpicturemsg' class='menumsg'>Insert Picture</span></a>    
+                    
+    
+      
+      <a class="option" id='opfull' href='#' style='display:none;'>
+        <img src="img/icnfull.png" /><span id='fullscreenmsg' class='menumsg'>Full screen</span></a> 
+          
+      <a class="option" id='opprint' href='#'>
+        <img src="img/icnprint.png" /><span id='printmsg' class='menumsg'>Print</span></a> 
+          
+      <a class="option" id='oppreferences' href='#'>
+        <img src="img/icnpreferences.png" /><span id='preferencesmsg' class='menumsg'>Preferences</span></a> 
+        <a class="option" id='opexit' href='#' style=' padding-left:12px; text-shadow:none;'>
+       <span id='exitmsg' class='menumsg'>Exit</span></a>
+       
+            
+    </div>
+    <div id="file_manager">
+    <div id="file_manager_tabs">
+      <div id="file_manager_tab_recent" class="file_manager_tab_enabled">
+      Recent
+      </div><div id="file_manager_tab_drafts" class="file_manager_tab_disabled">
+      Backups
+      </div>
+    </div>
+    <div id="file_manager_recent_div">
+    <a id="open_local_file" class="dark_button" style="background-color:rgb(0,179,114);color:white"></a>
+    <div id='file_manager_recent_list'>
+      
+    </div>
+    </div>
+    <div id="file_manager_drafts_div">
+       <div id="filemanagersearch">  
+      <input id='searchfilemanagerinput' type='text' value='' /> 
+      <a href="#" id="lupasearchfilemanager" class="searchb" >
+        <img src="img/lupa.png" /></a>
+      <a href="#" id="stopsearchfilemanager" class="searchb" style="display:none">
+        <img src="img/end.png" /></a>  
+    </div>  
+      <div id="file_list"></div>
+      <a id="remove_button" class="remove_button_disabled"></a>
+      <div id="documentremoved_msg"></div>
+      <a id="yes_remove_button"></a>
+      <a id="no_remove_button"></a>
+    </div>
+      
+      
+      
+    
+    </div> 
+    <div id="preferences_window">
+    </div> 
+    
+    <div id="ctrlf">  
+      <input id='ctrlfinput' type='text' value='' /> 
+      <a href="#" id="previousb" class="searchb">
+        <img src="img/previous.png" /></a>
+      <a href="#" id="nextb" class="searchb">
+        <img src="img/next.png" /></a>
+      <a href="#" id="endb" class="searchb">
+        <img src="img/end.png" /></a>  
+    </div>  
+    <div id="save_msg">Saved</div>  
+    <div id='splash_screen'></div>
+    <div id='loader_block_screen'><input type='text' value='' id='loader_input_block'/>
+    <div class="loading">
+	<!-- We make this div spin -->
+	<div class="spinner">
+		<!-- Mask of the quarter of circle -->
+		<div class="mask">
+			<!-- Inner masked circle -->
+			<div class="maskedCircle"></div>
+		</div>
+	</div>
+	</div>
+        </div>    
+            <div id='tooltip_make_links_openable'>
+            <img src='img/openable_icon.png' />
+            </div>     
+            <div id='trialexpired'  style="display:none">Please <a href="https://chrome.google.com/webstore/detail/calmly-writer/adhdlhedoenicbbncfckobjedmboleig" target="_blank">Upgrade Now</a> to help us improve the app (and remove this notice)</div>   
+  </body>
+</html>

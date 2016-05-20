@@ -1,0 +1,229 @@
+{
+   "aboutmsg": {
+      "message": "Acerca de Calmly Writer Test"
+   },
+   "acceptmsg": {
+      "message": "Aceptar"
+   },
+   "appDesc": {
+      "description": "Procesador de textos con el que escribir sin distracciones",
+      "message": "Procesador de textos con el que escribir sin distracciones"
+   },
+   "appName": {
+      "description": "Calmly Writer Test",
+      "message": "Calmly Writer Test"
+   },
+   "areyousuremsg": {
+      "message": "¿Estás seguro?"
+   },
+   "backupmsg": {
+      "message": "Copias de seguridad"
+   },
+   "cancelmsg": {
+      "message": "Cancelar"
+   },
+   "characters": {
+      "message": "Caracteres"
+   },
+   "closemsg": {
+      "message": "Cerrar Menú"
+   },
+   "customizationmsg": {
+      "message": "Personalización"
+   },
+   "discardmsg": {
+      "message": "Descartar cambios y salir"
+   },
+   "documentchanges": {
+      "message": "El documento tiene cambios que no se han guardado."
+   },
+   "enterurlmsg": {
+      "message": "Introduce URL"
+   },
+   "errorsavingmsg": {
+      "message": "Se ha producido un error al guardar el documento. Por favor, escoge otra ubicación."
+   },
+   "exitmsg": {
+      "message": "Salir"
+   },
+   "fullscreenmsg": {
+      "message": "Pantalla Completa"
+   },
+   "htmlsourceclosemsg": {
+      "message": "Cerrar"
+   },
+   "insertpicturemsg": {
+      "message": "Insertar Imagen"
+   },
+   "invalidfilemsg": {
+      "message": "El formato del fichero no es compatible."
+   },
+   "newmsg": {
+      "message": "Nuevo"
+   },
+   "nomsg": {
+      "message": "No"
+   },
+   "okdiscardmsg": {
+      "message": "Ok, descartar cambios"
+   },
+   "openlocalfile": {
+      "message": "Importar"
+   },
+   "openmsg": {
+      "message": "Abrir"
+   },
+   "pictureformatmsg": {
+      "message": "El formato de la imagen no es compatible."
+   },
+   "prasterisk": {
+      "message": "Comenzar una lista de viñetas con *"
+   },
+   "prautocapitalization": {
+      "message": "Mayúsculas automáticas"
+   },
+   "prcloudsaving": {
+      "message": "Autoguardado en la nube"
+   },
+   "prcousine": {
+      "message": "Cousine"
+   },
+   "prdark": {
+      "message": "Modo noche"
+   },
+   "prdroid": {
+      "message": "Droid Serif"
+   },
+   "prdyslexic": {
+      "message": "Modo OpenDyslexic"
+   },
+   "prdyslexicmono": {
+      "message": "Monoespaciada"
+   },
+   "prdyslexicregular": {
+      "message": "Normal"
+   },
+   "preferencesmsg": {
+      "message": "Preferencias"
+   },
+   "prfocusmode": {
+      "message": "Modo Foco"
+   },
+   "prfont": {
+      "message": "Fuente"
+   },
+   "prfontlarge": {
+      "message": "Grande"
+   },
+   "prfontmedium": {
+      "message": "Mediana"
+   },
+   "prfontsize": {
+      "message": "Tamaño de fuente"
+   },
+   "prfontsmall": {
+      "message": "Pequeña"
+   },
+   "prformatting": {
+      "message": "Formato"
+   },
+   "printmsg": {
+      "message": "Imprimir"
+   },
+   "prmarginparagraphs": {
+      "message": "Margen entre párrafos"
+   },
+   "prmedium": {
+      "message": "Medio"
+   },
+   "prnarrow": {
+      "message": "Reducido"
+   },
+   "prnumbered": {
+      "message": "Comenzar una lista numerada con 1."
+   },
+   "proff": {
+      "message": "Off"
+   },
+   "pron": {
+      "message": "On"
+   },
+   "prscreen": {
+      "message": "Pantalla"
+   },
+   "prsmartdash": {
+      "message": "Guiones largos"
+   },
+   "prsmartellipses": {
+      "message": "Puntos suspensivos"
+   },
+   "prsmartpunctuation": {
+      "message": "Puntuación automática"
+   },
+   "prsmartquotes": {
+      "message": "Apóstrofos y comillas"
+   },
+   "prtextcaret": {
+      "message": "Cursor de texto"
+   },
+   "prtextwidth": {
+      "message": "Ancho del texto"
+   },
+   "prtoolbar": {
+      "message": "Barra de herramientas emergente"
+   },
+   "prtypesound": {
+      "message": "Sonido de máquina de escribir"
+   },
+   "prwide": {
+      "message": "Amplio"
+   },
+   "prwordcounter": {
+      "message": "Contador de palabras siempre visible"
+   },
+   "readingtime": {
+      "message": "Tiempo de lectura"
+   },
+   "recentmsg": {
+      "message": "Recientes"
+   },
+   "removelocalfile": {
+      "message": "Eliminar"
+   },
+   "rssmsg": {
+      "message": "Publicar"
+   },
+   "saveasmsg": {
+      "message": "Guardar como"
+   },
+   "savedmsg": {
+      "message": "Guardado"
+   },
+   "savemsg": {
+      "message": "Guardar"
+   },
+   "selectedtext": {
+      "message": "Texto seleccionado"
+   },
+   "syncmsg": {
+      "message": "Sincronización"
+   },
+   "undoremove": {
+      "message": "Deshacer"
+   },
+   "undoremovemsg": {
+      "message": "El documento se ha eliminado"
+   },
+   "unsavedmsg": {
+      "message": "Sin guardar"
+   },
+   "untitledmsg": {
+      "message": "sintitulo"
+   },
+   "words": {
+      "message": "Palabras"
+   },
+   "yesmsg": {
+      "message": "Sí"
+   }
+}

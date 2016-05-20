@@ -1,0 +1,229 @@
+{
+   "aboutmsg": {
+      "message": "О Calmly Writer Test"
+   },
+   "acceptmsg": {
+      "message": "Применить"
+   },
+   "appDesc": {
+      "description": "The best way to focus on writing",
+      "message": "Лучший способ сосредоточиться на печати"
+   },
+   "appName": {
+      "description": "Calmly Writer Test",
+      "message": "Calmly Writer Test"
+   },
+   "areyousuremsg": {
+      "message": "Ты уверен?"
+   },
+   "backupmsg": {
+      "message": "Резервные копии"
+   },
+   "cancelmsg": {
+      "message": "Отмена"
+   },
+   "characters": {
+      "message": "Символов"
+   },
+   "closemsg": {
+      "message": "Закрыть меню"
+   },
+   "customizationmsg": {
+      "message": "Настройка"
+   },
+   "discardmsg": {
+      "message": "Отменить изменения и выйти"
+   },
+   "documentchanges": {
+      "message": "Этот документ содержит несохранённые изменения."
+   },
+   "enterurlmsg": {
+      "message": "Введите URL"
+   },
+   "errorsavingmsg": {
+      "message": "Произошла ошибка при сохранении документа. Пожалуйста, выберите другое место."
+   },
+   "exitmsg": {
+      "message": "Выход"
+   },
+   "fullscreenmsg": {
+      "message": "Полноэкранный режим"
+   },
+   "htmlsourceclosemsg": {
+      "message": "Закрыть"
+   },
+   "insertpicturemsg": {
+      "message": "Вставить изображение"
+   },
+   "invalidfilemsg": {
+      "message": "Неверный формат файла"
+   },
+   "newmsg": {
+      "message": "Создать"
+   },
+   "nomsg": {
+      "message": "Нет"
+   },
+   "okdiscardmsg": {
+      "message": "ОК, отменить изменения"
+   },
+   "openlocalfile": {
+      "message": "Импорт"
+   },
+   "openmsg": {
+      "message": "Открыть"
+   },
+   "pictureformatmsg": {
+      "message": " Неподдерживаемый формат изображения"
+   },
+   "prasterisk": {
+      "message": "Начать маркированный список с *"
+   },
+   "prautocapitalization": {
+      "message": "Автоматические прописные буквы"
+   },
+   "prcloudsaving": {
+      "message": "Cloud Saving"
+   },
+   "prcousine": {
+      "message": "Cousine"
+   },
+   "prdark": {
+      "message": "Ночной режим"
+   },
+   "prdroid": {
+      "message": "Droid Serif"
+   },
+   "prdyslexic": {
+      "message": "Режим OpenDyslexic"
+   },
+   "prdyslexicmono": {
+      "message": "моноширинный"
+   },
+   "prdyslexicregular": {
+      "message": "Стандартный шрифт"
+   },
+   "preferencesmsg": {
+      "message": "Настройки"
+   },
+   "prfocusmode": {
+      "message": "Режим фокусировки"
+   },
+   "prfont": {
+      "message": "Шрифт"
+   },
+   "prfontlarge": {
+      "message": "Большой"
+   },
+   "prfontmedium": {
+      "message": "Средний"
+   },
+   "prfontsize": {
+      "message": "Размер шрифта"
+   },
+   "prfontsmall": {
+      "message": "Маленький"
+   },
+   "prformatting": {
+      "message": "форматирование"
+   },
+   "printmsg": {
+      "message": "Печать"
+   },
+   "prmarginparagraphs": {
+      "message": "Маржа между абзацев текста"
+   },
+   "prmedium": {
+      "message": "Нормальный"
+   },
+   "prnarrow": {
+      "message": "Узкий"
+   },
+   "prnumbered": {
+      "message": "Начать пронумерованный список с 1."
+   },
+   "proff": {
+      "message": "Выключить"
+   },
+   "pron": {
+      "message": "Включить"
+   },
+   "prscreen": {
+      "message": "Экран"
+   },
+   "prsmartdash": {
+      "message": "Короткие, длинные тире"
+   },
+   "prsmartellipses": {
+      "message": "Эллипсы"
+   },
+   "prsmartpunctuation": {
+      "message": "Проверка пунктуации"
+   },
+   "prsmartquotes": {
+      "message": "Цитаты и апострофы"
+   },
+   "prtextcaret": {
+      "message": "Текст курсор"
+   },
+   "prtextwidth": {
+      "message": "Стиль текста"
+   },
+   "prtoolbar": {
+      "message": "Всплывающие панели инструментов"
+   },
+   "prtypesound": {
+      "message": "Пишущая машинка звук"
+   },
+   "prwide": {
+      "message": "Широкий"
+   },
+   "prwordcounter": {
+      "message": "Счетчик Слово всегда виден"
+   },
+   "readingtime": {
+      "message": "Время чтения"
+   },
+   "recentmsg": {
+      "message": "Последние"
+   },
+   "removelocalfile": {
+      "message": "Удалить"
+   },
+   "rssmsg": {
+      "message": "Опубликовать"
+   },
+   "saveasmsg": {
+      "message": "Сохранить как"
+   },
+   "savedmsg": {
+      "message": "Сохранено"
+   },
+   "savemsg": {
+      "message": "Сохранить"
+   },
+   "selectedtext": {
+      "message": "Выделенный текст"
+   },
+   "syncmsg": {
+      "message": "Синхронизация"
+   },
+   "undoremove": {
+      "message": "Отменить"
+   },
+   "undoremovemsg": {
+      "message": "Документ был удален"
+   },
+   "unsavedmsg": {
+      "message": "неспасенный"
+   },
+   "untitledmsg": {
+      "message": "безымянный"
+   },
+   "words": {
+      "message": "Слов"
+   },
+   "yesmsg": {
+      "message": "Да"
+   }
+}

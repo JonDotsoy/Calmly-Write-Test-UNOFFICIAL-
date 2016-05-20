@@ -1,0 +1,229 @@
+{
+   "aboutmsg": {
+      "message": "O Calmly Writer Test"
+   },
+   "acceptmsg": {
+      "message": "Akceptuj"
+   },
+   "appDesc": {
+      "description": "The best way to focus on writing",
+      "message": "Najlepszy sposób, by skupić się na pisaniu"
+   },
+   "appName": {
+      "description": "Calmly Writer Test",
+      "message": "Calmly Writer Test"
+   },
+   "areyousuremsg": {
+      "message": "Czy jesteś pewien?"
+   },
+   "backupmsg": {
+      "message": "Kopie zapasowe"
+   },
+   "cancelmsg": {
+      "message": "Anuluj"
+   },
+   "characters": {
+      "message": "Znaki"
+   },
+   "closemsg": {
+      "message": "Zamknij menu"
+   },
+   "customizationmsg": {
+      "message": "Dostosowanie"
+   },
+   "discardmsg": {
+      "message": "Porzuć zmiany i wyjdź"
+   },
+   "documentchanges": {
+      "message": "Dokument zawiera niezapisane zmiany"
+   },
+   "enterurlmsg": {
+      "message": "Wprowadź URL"
+   },
+   "errorsavingmsg": {
+      "message": "Podczas zapisywania dokumentu wystąpił błąd. Wybierz inną lokalizację."
+   },
+   "exitmsg": {
+      "message": "Wyjdź"
+   },
+   "fullscreenmsg": {
+      "message": "Pełny ekran"
+   },
+   "htmlsourceclosemsg": {
+      "message": "Zamknij"
+   },
+   "insertpicturemsg": {
+      "message": "Wstaw obraz"
+   },
+   "invalidfilemsg": {
+      "message": "Nieprawidłowy format pliku."
+   },
+   "newmsg": {
+      "message": "Nowy"
+   },
+   "nomsg": {
+      "message": "Nie"
+   },
+   "okdiscardmsg": {
+      "message": "Dobrze, porzuć zmiany"
+   },
+   "openlocalfile": {
+      "message": "Importuj"
+   },
+   "openmsg": {
+      "message": "Otwórz"
+   },
+   "pictureformatmsg": {
+      "message": "Nieobsługiwany format obrazu."
+   },
+   "prasterisk": {
+      "message": "Stwórz listę punktowaną wpisując *"
+   },
+   "prautocapitalization": {
+      "message": "Automatyczne korygowanie wielkich liter"
+   },
+   "prcloudsaving": {
+      "message": "Zapis w chmurze"
+   },
+   "prcousine": {
+      "message": "Cousine"
+   },
+   "prdark": {
+      "message": "Tryb ciemny"
+   },
+   "prdroid": {
+      "message": "Droid Serif"
+   },
+   "prdyslexic": {
+      "message": "Tryb OpenDyslexic (dla dyslektyków)"
+   },
+   "prdyslexicmono": {
+      "message": "Maszynowy"
+   },
+   "prdyslexicregular": {
+      "message": "Standardowy"
+   },
+   "preferencesmsg": {
+      "message": "Ustawienia"
+   },
+   "prfocusmode": {
+      "message": "Tryb skupienia"
+   },
+   "prfont": {
+      "message": "Czcionka"
+   },
+   "prfontlarge": {
+      "message": "Duży"
+   },
+   "prfontmedium": {
+      "message": "Średni"
+   },
+   "prfontsize": {
+      "message": "Rozmiar czcionki"
+   },
+   "prfontsmall": {
+      "message": "Mały"
+   },
+   "prformatting": {
+      "message": "Formatowanie"
+   },
+   "printmsg": {
+      "message": "Drukuj"
+   },
+   "prmarginparagraphs": {
+      "message": "Odstęp między akapitami"
+   },
+   "prmedium": {
+      "message": "Średni"
+   },
+   "prnarrow": {
+      "message": "Wąski"
+   },
+   "prnumbered": {
+      "message": "Stwórz listę numerowaną wpisując 1."
+   },
+   "proff": {
+      "message": "Wył."
+   },
+   "pron": {
+      "message": "Wł."
+   },
+   "prscreen": {
+      "message": "Ekran"
+   },
+   "prsmartdash": {
+      "message": "Łączniki i myślniki"
+   },
+   "prsmartellipses": {
+      "message": "Wielokropki"
+   },
+   "prsmartpunctuation": {
+      "message": "Inteligentna interpunkcja"
+   },
+   "prsmartquotes": {
+      "message": "Cytaty i apostrofy"
+   },
+   "prtextcaret": {
+      "message": "Kursor tekstowy"
+   },
+   "prtextwidth": {
+      "message": "Szerokość tekstu"
+   },
+   "prtoolbar": {
+      "message": "Dynamiczny przybornik"
+   },
+   "prtypesound": {
+      "message": "Dźwięk maszyny do pisania"
+   },
+   "prwide": {
+      "message": "Szeroki"
+   },
+   "prwordcounter": {
+      "message": "Licznik Słowo zawsze widoczne"
+   },
+   "readingtime": {
+      "message": "Czas czytania"
+   },
+   "recentmsg": {
+      "message": "Niedawny"
+   },
+   "removelocalfile": {
+      "message": "Usuń"
+   },
+   "rssmsg": {
+      "message": "Publish"
+   },
+   "saveasmsg": {
+      "message": "Zapisz jako"
+   },
+   "savedmsg": {
+      "message": "Zapisane"
+   },
+   "savemsg": {
+      "message": "Zapisz"
+   },
+   "selectedtext": {
+      "message": "Zaznaczony tekst"
+   },
+   "syncmsg": {
+      "message": "Synchronizowanie"
+   },
+   "undoremove": {
+      "message": "Cofnij"
+   },
+   "undoremovemsg": {
+      "message": "Dokument został usunięty"
+   },
+   "unsavedmsg": {
+      "message": "niezapisane"
+   },
+   "untitledmsg": {
+      "message": "Bez tytułu"
+   },
+   "words": {
+      "message": "Słowa"
+   },
+   "yesmsg": {
+      "message": "Tak"
+   }
+}
