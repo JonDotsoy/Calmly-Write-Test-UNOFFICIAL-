@@ -1,0 +1,229 @@
+{
+   "aboutmsg": {
+      "message": "About Calmly Writer Test"
+   },
+   "acceptmsg": {
+      "message": "Accept"
+   },
+   "appDesc": {
+      "description": "The best way to focus on writing",
+      "message": "The best way to focus on writing"
+   },
+   "appName": {
+      "description": "Calmly Writer Test",
+      "message": "Calmly Writer Test"
+   },
+   "areyousuremsg": {
+      "message": "Are you sure?"
+   },
+   "backupmsg": {
+      "message": "Backups"
+   },
+   "cancelmsg": {
+      "message": "Cancel"
+   },
+   "characters": {
+      "message": "Characters"
+   },
+   "closemsg": {
+      "message": "Close Menu"
+   },
+   "customizationmsg": {
+      "message": "Customization"
+   },
+   "discardmsg": {
+      "message": "Discard changes and exit"
+   },
+   "documentchanges": {
+      "message": "The document contains changes that have not been saved."
+   },
+   "enterurlmsg": {
+      "message": "Enter URL"
+   },
+   "errorsavingmsg": {
+      "message": "An error occurred while saving the document. Please choose another location."
+   },
+   "exitmsg": {
+      "message": "Exit"
+   },
+   "fullscreenmsg": {
+      "message": "Full Screen"
+   },
+   "htmlsourceclosemsg": {
+      "message": "Close"
+   },
+   "insertpicturemsg": {
+      "message": "Insert Picture"
+   },
+   "invalidfilemsg": {
+      "message": "Invalid file format."
+   },
+   "newmsg": {
+      "message": "New"
+   },
+   "nomsg": {
+      "message": "No"
+   },
+   "okdiscardmsg": {
+      "message": "Ok, discard changes"
+   },
+   "openlocalfile": {
+      "message": "Import"
+   },
+   "openmsg": {
+      "message": "Open"
+   },
+   "pictureformatmsg": {
+      "message": "Picture format not supported."
+   },
+   "prasterisk": {
+      "message": "Start a bulleted list with *"
+   },
+   "prautocapitalization": {
+      "message": "Auto-Capitalization"
+   },
+   "prcloudsaving": {
+      "message": "Cloud Saving"
+   },
+   "prcousine": {
+      "message": "Cousine"
+   },
+   "prdark": {
+      "message": "Dark mode"
+   },
+   "prdroid": {
+      "message": "Droid Serif"
+   },
+   "prdyslexic": {
+      "message": "OpenDyslexic mode"
+   },
+   "prdyslexicmono": {
+      "message": "Monospaced"
+   },
+   "prdyslexicregular": {
+      "message": "Standard"
+   },
+   "preferencesmsg": {
+      "message": "Preferences"
+   },
+   "prfocusmode": {
+      "message": "Focus Mode"
+   },
+   "prfont": {
+      "message": "Font"
+   },
+   "prfontlarge": {
+      "message": "Large"
+   },
+   "prfontmedium": {
+      "message": "Medium"
+   },
+   "prfontsize": {
+      "message": "Font size"
+   },
+   "prfontsmall": {
+      "message": "Small"
+   },
+   "prformatting": {
+      "message": "Formatting"
+   },
+   "printmsg": {
+      "message": "Print"
+   },
+   "prmarginparagraphs": {
+      "message": "Margin between paragraphs"
+   },
+   "prmedium": {
+      "message": "Medium"
+   },
+   "prnarrow": {
+      "message": "Narrow"
+   },
+   "prnumbered": {
+      "message": "Start an ordered list with 1."
+   },
+   "proff": {
+      "message": "Off"
+   },
+   "pron": {
+      "message": "On"
+   },
+   "prscreen": {
+      "message": "Screen"
+   },
+   "prsmartdash": {
+      "message": "En, Em Dashes"
+   },
+   "prsmartellipses": {
+      "message": "Ellipses"
+   },
+   "prsmartpunctuation": {
+      "message": "Smart punctuation"
+   },
+   "prsmartquotes": {
+      "message": "Quotes and apostrophes"
+   },
+   "prtextcaret": {
+      "message": "Text Caret"
+   },
+   "prtextwidth": {
+      "message": "Text width"
+   },
+   "prtoolbar": {
+      "message": "Popup toolbar"
+   },
+   "prtypesound": {
+      "message": "Typewriter sound"
+   },
+   "prwide": {
+      "message": "Wide"
+   },
+   "prwordcounter": {
+      "message": "Word counter always visible"
+   },
+   "readingtime": {
+      "message": "Reading Time"
+   },
+   "recentmsg": {
+      "message": "Recent"
+   },
+   "removelocalfile": {
+      "message": "Remove"
+   },
+   "rssmsg": {
+      "message": "Publish"
+   },
+   "saveasmsg": {
+      "message": "Save as"
+   },
+   "savedmsg": {
+      "message": "Saved"
+   },
+   "savemsg": {
+      "message": "Save"
+   },
+   "selectedtext": {
+      "message": "Selected text"
+   },
+   "syncmsg": {
+      "message": "Synchronizing"
+   },
+   "undoremove": {
+      "message": "Undo"
+   },
+   "undoremovemsg": {
+      "message": "The document has been removed"
+   },
+   "unsavedmsg": {
+      "message": "Unsaved"
+   },
+   "untitledmsg": {
+      "message": "untitled"
+   },
+   "words": {
+      "message": "Words"
+   },
+   "yesmsg": {
+      "message": "Yes"
+   }
+}

@@ -1,0 +1,229 @@
+{
+   "aboutmsg": {
+      "message": "À propos de Calmly Writer Test"
+   },
+   "acceptmsg": {
+      "message": "Ok"
+   },
+   "appDesc": {
+      "description": "Éditeur de texte pour écrire sans distractions",
+      "message": "Éditeur de texte pour écrire sans distractions"
+   },
+   "appName": {
+      "description": "Calmly Writer Test",
+      "message": "Calmly Writer Test"
+   },
+   "areyousuremsg": {
+      "message": "Êtes-vous sûr?"
+   },
+   "backupmsg": {
+      "message": "Sauvegardes"
+   },
+   "cancelmsg": {
+      "message": "Annuler"
+   },
+   "characters": {
+      "message": "Caractères"
+   },
+   "closemsg": {
+      "message": "Fermer le menu"
+   },
+   "customizationmsg": {
+      "message": "Personnalisation"
+   },
+   "discardmsg": {
+      "message": "Annuler les modifications et sortir"
+   },
+   "documentchanges": {
+      "message": "Le document contient des modifications qui ne sont pas enregistrés"
+   },
+   "enterurlmsg": {
+      "message": "Entez URL"
+   },
+   "errorsavingmsg": {
+      "message": "Une erreur est survenue lors de l'enregistrement du document. S'il vous plaît choisir un autre emplacement."
+   },
+   "exitmsg": {
+      "message": "Quitter"
+   },
+   "fullscreenmsg": {
+      "message": "Plein écran"
+   },
+   "htmlsourceclosemsg": {
+      "message": "Fermer"
+   },
+   "insertpicturemsg": {
+      "message": "Insérer une image"
+   },
+   "invalidfilemsg": {
+      "message": "Format de fichier non valide"
+   },
+   "newmsg": {
+      "message": "Nouveau"
+   },
+   "nomsg": {
+      "message": "Non"
+   },
+   "okdiscardmsg": {
+      "message": "Ok, annuler les modifications"
+   },
+   "openlocalfile": {
+      "message": "Importer"
+   },
+   "openmsg": {
+      "message": "Ouvrir"
+   },
+   "pictureformatmsg": {
+      "message": "Format d'image non pris en charge"
+   },
+   "prasterisk": {
+      "message": "Commencer une liste à puces avec *"
+   },
+   "prautocapitalization": {
+      "message": "Majuscule Automatiquement"
+   },
+   "prcloudsaving": {
+      "message": "Sauvegarde infonuagique"
+   },
+   "prcousine": {
+      "message": "Cousine"
+   },
+   "prdark": {
+      "message": "Mode nuit"
+   },
+   "prdroid": {
+      "message": "Droid Serif"
+   },
+   "prdyslexic": {
+      "message": "Mode OpenDyslexic"
+   },
+   "prdyslexicmono": {
+      "message": "Monospaced"
+   },
+   "prdyslexicregular": {
+      "message": "Normal"
+   },
+   "preferencesmsg": {
+      "message": "Préférences"
+   },
+   "prfocusmode": {
+      "message": "Mode focus"
+   },
+   "prfont": {
+      "message": "Police"
+   },
+   "prfontlarge": {
+      "message": "Grande"
+   },
+   "prfontmedium": {
+      "message": "Moyenne"
+   },
+   "prfontsize": {
+      "message": "Taille de police"
+   },
+   "prfontsmall": {
+      "message": "Petite"
+   },
+   "prformatting": {
+      "message": "Formatage "
+   },
+   "printmsg": {
+      "message": "Imprimer"
+   },
+   "prmarginparagraphs": {
+      "message": "Espacement entre les paragraphes"
+   },
+   "prmedium": {
+      "message": "Moyenne"
+   },
+   "prnarrow": {
+      "message": "Étroite"
+   },
+   "prnumbered": {
+      "message": "Commencer une liste numérotée avec 1."
+   },
+   "proff": {
+      "message": "Off"
+   },
+   "pron": {
+      "message": "On"
+   },
+   "prscreen": {
+      "message": "Écran"
+   },
+   "prsmartdash": {
+      "message": "Tirets"
+   },
+   "prsmartellipses": {
+      "message": "Points de suspension"
+   },
+   "prsmartpunctuation": {
+      "message": "Ponctuation intelligente"
+   },
+   "prsmartquotes": {
+      "message": "Apostrophes et guillemets"
+   },
+   "prtextcaret": {
+      "message": "Curseur de texte"
+   },
+   "prtextwidth": {
+      "message": "Largeur du texte"
+   },
+   "prtoolbar": {
+      "message": "Barre d'outils surgissante"
+   },
+   "prtypesound": {
+      "message": "Son de machine à écrire"
+   },
+   "prwide": {
+      "message": "Large"
+   },
+   "prwordcounter": {
+      "message": "Compteur de mots toujours visible"
+   },
+   "readingtime": {
+      "message": "Temps de lecture"
+   },
+   "recentmsg": {
+      "message": "Documents récents"
+   },
+   "removelocalfile": {
+      "message": "Supprimer"
+   },
+   "rssmsg": {
+      "message": "Publicar"
+   },
+   "saveasmsg": {
+      "message": "Enregistrer sous"
+   },
+   "savedmsg": {
+      "message": "Enregistré"
+   },
+   "savemsg": {
+      "message": "Enregistrer le fichier"
+   },
+   "selectedtext": {
+      "message": "Texte sélectionné"
+   },
+   "syncmsg": {
+      "message": "Synchronisation"
+   },
+   "undoremove": {
+      "message": "Annuler"
+   },
+   "undoremovemsg": {
+      "message": "Le document a été supprimé"
+   },
+   "unsavedmsg": {
+      "message": "non enregistrée"
+   },
+   "untitledmsg": {
+      "message": "Sanstitre"
+   },
+   "words": {
+      "message": "Mots"
+   },
+   "yesmsg": {
+      "message": "Oui"
+   }
+}

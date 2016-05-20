@@ -1,0 +1,229 @@
+{
+   "aboutmsg": {
+      "message": "Über Calmly Writer Test"
+   },
+   "acceptmsg": {
+      "message": "Akzeptieren"
+   },
+   "appDesc": {
+      "description": "The best way to focus on writing",
+      "message": "The best way to focus on writing"
+   },
+   "appName": {
+      "description": "Calmly Writer Test",
+      "message": "Calmly Writer Test"
+   },
+   "areyousuremsg": {
+      "message": "Sind Sie sicher?"
+   },
+   "backupmsg": {
+      "message": "Backups"
+   },
+   "cancelmsg": {
+      "message": "Abbrechen"
+   },
+   "characters": {
+      "message": "Zeichen"
+   },
+   "closemsg": {
+      "message": "Menü schließen"
+   },
+   "customizationmsg": {
+      "message": "Customization"
+   },
+   "discardmsg": {
+      "message": "Änderungen verwerfen und Programm schließen"
+   },
+   "documentchanges": {
+      "message": "Dieses Dokument beinhaltet Änderungen, die noch nicht gesichert wurden."
+   },
+   "enterurlmsg": {
+      "message": "URL eingeben"
+   },
+   "errorsavingmsg": {
+      "message": "Fehler beim Sichern des Dokuments. Bitte wählen Sie einen anderen Speicherort."
+   },
+   "exitmsg": {
+      "message": "Beenden"
+   },
+   "fullscreenmsg": {
+      "message": "Vollbildmodus"
+   },
+   "htmlsourceclosemsg": {
+      "message": "Schließen"
+   },
+   "insertpicturemsg": {
+      "message": "Bild einfügen"
+   },
+   "invalidfilemsg": {
+      "message": "Ungültiges Dateiformat"
+   },
+   "newmsg": {
+      "message": "Neu"
+   },
+   "nomsg": {
+      "message": "Nein"
+   },
+   "okdiscardmsg": {
+      "message": "Okay, Änderungen verwerfen"
+   },
+   "openlocalfile": {
+      "message": "Importieren"
+   },
+   "openmsg": {
+      "message": "Öffnen"
+   },
+   "pictureformatmsg": {
+      "message": "Nicht unterstütztes Bildformat"
+   },
+   "prasterisk": {
+      "message": "Aufzählungsliste mit * beginnen"
+   },
+   "prautocapitalization": {
+      "message": "Auto-Großschreibung"
+   },
+   "prcloudsaving": {
+      "message": "Cloud Saving"
+   },
+   "prcousine": {
+      "message": "Cousine"
+   },
+   "prdark": {
+      "message": "Dunkle Ansicht"
+   },
+   "prdroid": {
+      "message": "Droid Serif"
+   },
+   "prdyslexic": {
+      "message": "OpenDyslexic-Modus"
+   },
+   "prdyslexicmono": {
+      "message": "Nichtproportionale Schriftart"
+   },
+   "prdyslexicregular": {
+      "message": "Standard"
+   },
+   "preferencesmsg": {
+      "message": "Einstellungen"
+   },
+   "prfocusmode": {
+      "message": "Fokusmodus"
+   },
+   "prfont": {
+      "message": "Zeichensatz"
+   },
+   "prfontlarge": {
+      "message": "Groß"
+   },
+   "prfontmedium": {
+      "message": "Mittel"
+   },
+   "prfontsize": {
+      "message": "Zeichensatzgröße"
+   },
+   "prfontsmall": {
+      "message": "Klein"
+   },
+   "prformatting": {
+      "message": "Formatierung"
+   },
+   "printmsg": {
+      "message": "Drucken"
+   },
+   "prmarginparagraphs": {
+      "message": "Absatzabstand"
+   },
+   "prmedium": {
+      "message": "Mittel"
+   },
+   "prnarrow": {
+      "message": "Eng"
+   },
+   "prnumbered": {
+      "message": "Nummerierte Liste mit 1. beginnen"
+   },
+   "proff": {
+      "message": "Aus"
+   },
+   "pron": {
+      "message": "An"
+   },
+   "prscreen": {
+      "message": "Anzeige"
+   },
+   "prsmartdash": {
+      "message": "Gedanken- und Geviertstrich"
+   },
+   "prsmartellipses": {
+      "message": "Auslassungszeichen"
+   },
+   "prsmartpunctuation": {
+      "message": "Typografie"
+   },
+   "prsmartquotes": {
+      "message": "Automatische Anführungszeichen"
+   },
+   "prtextcaret": {
+      "message": "Textcursor"
+   },
+   "prtextwidth": {
+      "message": "Textbreite"
+   },
+   "prtoolbar": {
+      "message": "Werkzeugleiste"
+   },
+   "prtypesound": {
+      "message": "Schreibmaschine Klang"
+   },
+   "prwide": {
+      "message": "Weit"
+   },
+   "prwordcounter": {
+      "message": "Wortzähler immer sichtbar"
+   },
+   "readingtime": {
+      "message": "Lesezeit"
+   },
+   "recentmsg": {
+      "message": "Zuletzt verwendet"
+   },
+   "removelocalfile": {
+      "message": "Löschen"
+   },
+   "rssmsg": {
+      "message": "Publish"
+   },
+   "saveasmsg": {
+      "message": "Speichern unter"
+   },
+   "savedmsg": {
+      "message": "Gesichert"
+   },
+   "savemsg": {
+      "message": "Sichern"
+   },
+   "selectedtext": {
+      "message": "Ausgewählter Text"
+   },
+   "syncmsg": {
+      "message": "Synchronisierung"
+   },
+   "undoremove": {
+      "message": "Wiederherstellen"
+   },
+   "undoremovemsg": {
+      "message": "Das Dokument wurde gelöscht."
+   },
+   "unsavedmsg": {
+      "message": "Unsaved"
+   },
+   "untitledmsg": {
+      "message": "unbenannt"
+   },
+   "words": {
+      "message": "Wörter"
+   },
+   "yesmsg": {
+      "message": "Ja"
+   }
+}
