@@ -1,0 +1,26 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "main.js" ]
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icon_128.png",
+      "16": "icon_16.png"
+   },
+   "manifest_version": 2,
+   "minimum_chrome_version": "35",
+   "name": "__MSG_appName__",
+   "oauth2": {
+      "client_id": "679243812516-51j58eo7cujqhtf7inbr4qi393v9cukc.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/chromewebstore.readonly" ]
+   },
+   "offline_enabled": true,
+   "permissions": [ "fullscreen", "webview", "\u003Call_urls>", "storage", {
+      "fileSystem": [ "write", "retainEntries", "directory" ]
+   }, "unlimitedStorage", "syncFileSystem", "identity", "https://www.googleapis.com/" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.1.0"
+}
